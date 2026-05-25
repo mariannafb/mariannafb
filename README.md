@@ -2,7 +2,7 @@
  ✧ ✦ ✰ ABOUT ME ✧ ✦ ✰
 
 IT Technician with interests in technology, communication, and collaborative problem-solving environments.
-Currently focused on expanding my knowledge in programming, web development, agile methodologies, and business-oriented technology solutions.
+Currently expanding my knowledge in web development, programming, agile methodologies, and business-oriented technology solutions.
 I enjoy combining technical skills with communication, organization, and creativity to build useful and meaningful projects.
 
 ✦ TECHNICAL SKILLS: 
