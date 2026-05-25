@@ -21,5 +21,12 @@ I enjoy combining technical skills with communication, organization, and creativ
 - Agile Workflows
 - Software Development
 
+✦ INTERESTS:
+- Creative Technology
+- UI & Visual Design
+- Game Development
+- Communication
+- Collaborative Projects
+
  ✦ CONTACT ME:
  - mariannafbonfim@gmail.com
