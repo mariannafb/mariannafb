@@ -24,7 +24,7 @@ I enjoy combining technical skills with communication, organization, and creativ
 ✦ INTERESTS:
 - Creative Technology
 - UI & Visual Design
-- Game Development
+- UX Writing
 - Communication
 - Collaborative Projects
 
