@@ -1,4 +1,4 @@
-## Hi! I'm Marianna
+## Hi, I'm Marianna!
  ✧ ✦ ✰ ABOUT ME ✧ ✦ ✰
 
 IT Technician with interests in technology, communication, and collaborative problem-solving environments.
