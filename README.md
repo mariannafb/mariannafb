@@ -8,9 +8,7 @@ I enjoy combining technical skills with communication, organization, and creativ
 ✦ TECHNICAL SKILLS: 
 - Visual development and artistic direction support
 - Pixel art assets
-- HTML & CSS
-- Python
-- C
+- HTML, CSS & JS
 - Unity (C#)
 - Microsoft Office Suite
 - Agile Methodologies & Scrum Fundamentals
